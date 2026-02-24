@@ -1,9 +1,0 @@
-tensorflow
-transformers
-pandas
-numpy
-scikit-learn
-matplotlib
-ta
-streamlit
-yfinance
