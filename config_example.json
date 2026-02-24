@@ -1,5 +1,0 @@
-{
-  "news_csv": "data/raw/news.csv",
-  "prices_csv": "data/raw/prices.csv",
-  "timeframe": "1H"
-}
